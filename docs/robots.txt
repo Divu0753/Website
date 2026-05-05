@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://elevenxdesk.com
+Sitemap: https://elevenxdesk.com/sitemap.xml
